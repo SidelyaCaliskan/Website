@@ -1,0 +1,288 @@
+[
+  {
+    "id": "ghosts",
+    "name": "Ghosts",
+    "icon": "👻",
+    "stickers": [
+      {
+        "id": "ghost_1",
+        "name": "Cute Ghost",
+        "emoji": "👻",
+        "assetPath": "assets/stickers/ghosts/cute_ghost.png"
+      },
+      {
+        "id": "ghost_2",
+        "name": "Scary Ghost",
+        "emoji": "😱",
+        "assetPath": "assets/stickers/ghosts/scary_ghost.png"
+      },
+      {
+        "id": "ghost_3",
+        "name": "Floating Ghost",
+        "emoji": "👻",
+        "assetPath": "assets/stickers/ghosts/floating_ghost.png"
+      }
+    ]
+  },
+  {
+    "id": "pumpkins",
+    "name": "Pumpkins",
+    "icon": "🎃",
+    "stickers": [
+      {
+        "id": "pumpkin_1",
+        "name": "Happy Jack-o'-Lantern",
+        "emoji": "🎃",
+        "assetPath": "assets/stickers/pumpkins/happy_pumpkin.png"
+      },
+      {
+        "id": "pumpkin_2",
+        "name": "Scary Pumpkin",
+        "emoji": "🎃",
+        "assetPath": "assets/stickers/pumpkins/scary_pumpkin.png"
+      },
+      {
+        "id": "pumpkin_3",
+        "name": "Classic Pumpkin",
+        "emoji": "🎃",
+        "assetPath": "assets/stickers/pumpkins/classic_pumpkin.png"
+      }
+    ]
+  },
+  {
+    "id": "bats",
+    "name": "Bats",
+    "icon": "🦇",
+    "stickers": [
+      {
+        "id": "bat_1",
+        "name": "Flying Bat",
+        "emoji": "🦇",
+        "assetPath": "assets/stickers/bats/flying_bat.png"
+      },
+      {
+        "id": "bat_2",
+        "name": "Hanging Bat",
+        "emoji": "🦇",
+        "assetPath": "assets/stickers/bats/hanging_bat.png"
+      },
+      {
+        "id": "bat_3",
+        "name": "Bat Silhouette",
+        "emoji": "🦇",
+        "assetPath": "assets/stickers/bats/bat_silhouette.png"
+      }
+    ]
+  },
+  {
+    "id": "witches",
+    "name": "Witches",
+    "icon": "🧙",
+    "stickers": [
+      {
+        "id": "witch_1",
+        "name": "Witch",
+        "emoji": "🧙‍♀️",
+        "assetPath": "assets/stickers/witches/witch.png"
+      },
+      {
+        "id": "witch_2",
+        "name": "Witch Hat",
+        "emoji": "🎩",
+        "assetPath": "assets/stickers/witches/witch_hat.png"
+      },
+      {
+        "id": "witch_3",
+        "name": "Magic Broom",
+        "emoji": "🧹",
+        "assetPath": "assets/stickers/witches/broom.png"
+      },
+      {
+        "id": "witch_4",
+        "name": "Cauldron",
+        "emoji": "🫕",
+        "assetPath": "assets/stickers/witches/cauldron.png"
+      }
+    ]
+  },
+  {
+    "id": "monsters",
+    "name": "Monsters",
+    "icon": "🧟",
+    "stickers": [
+      {
+        "id": "monster_1",
+        "name": "Zombie",
+        "emoji": "🧟",
+        "assetPath": "assets/stickers/monsters/zombie.png"
+      },
+      {
+        "id": "monster_2",
+        "name": "Vampire",
+        "emoji": "🧛",
+        "assetPath": "assets/stickers/monsters/vampire.png"
+      },
+      {
+        "id": "monster_3",
+        "name": "Frankenstein",
+        "emoji": "🧟‍♂️",
+        "assetPath": "assets/stickers/monsters/frankenstein.png"
+      },
+      {
+        "id": "monster_4",
+        "name": "Mummy",
+        "emoji": "💀",
+        "assetPath": "assets/stickers/monsters/mummy.png"
+      }
+    ]
+  },
+  {
+    "id": "spiders",
+    "name": "Spiders",
+    "icon": "🕷️",
+    "stickers": [
+      {
+        "id": "spider_1",
+        "name": "Black Spider",
+        "emoji": "🕷️",
+        "assetPath": "assets/stickers/spiders/black_spider.png"
+      },
+      {
+        "id": "spider_2",
+        "name": "Spider Web",
+        "emoji": "🕸️",
+        "assetPath": "assets/stickers/spiders/spider_web.png"
+      },
+      {
+        "id": "spider_3",
+        "name": "Web Corner",
+        "emoji": "🕸️",
+        "assetPath": "assets/stickers/spiders/web_corner.png"
+      }
+    ]
+  },
+  {
+    "id": "skulls",
+    "name": "Skulls",
+    "icon": "💀",
+    "stickers": [
+      {
+        "id": "skull_1",
+        "name": "Skull",
+        "emoji": "💀",
+        "assetPath": "assets/stickers/skulls/skull.png"
+      },
+      {
+        "id": "skull_2",
+        "name": "Crossbones",
+        "emoji": "☠️",
+        "assetPath": "assets/stickers/skulls/crossbones.png"
+      },
+      {
+        "id": "skull_3",
+        "name": "Skeleton",
+        "emoji": "💀",
+        "assetPath": "assets/stickers/skulls/skeleton.png"
+      }
+    ]
+  },
+  {
+    "id": "candy",
+    "name": "Candy",
+    "icon": "🍬",
+    "stickers": [
+      {
+        "id": "candy_1",
+        "name": "Candy Corn",
+        "emoji": "🍬",
+        "assetPath": "assets/stickers/candy/candy_corn.png"
+      },
+      {
+        "id": "candy_2",
+        "name": "Lollipop",
+        "emoji": "🍭",
+        "assetPath": "assets/stickers/candy/lollipop.png"
+      },
+      {
+        "id": "candy_3",
+        "name": "Chocolate Bar",
+        "emoji": "🍫",
+        "assetPath": "assets/stickers/candy/chocolate.png"
+      }
+    ]
+  },
+  {
+    "id": "text",
+    "name": "Text",
+    "icon": "💬",
+    "stickers": [
+      {
+        "id": "text_1",
+        "name": "BOO!",
+        "emoji": "👻",
+        "assetPath": "assets/stickers/text/boo.png"
+      },
+      {
+        "id": "text_2",
+        "name": "Happy Halloween",
+        "emoji": "🎃",
+        "assetPath": "assets/stickers/text/happy_halloween.png"
+      },
+      {
+        "id": "text_3",
+        "name": "Trick or Treat",
+        "emoji": "🍬",
+        "assetPath": "assets/stickers/text/trick_or_treat.png"
+      },
+      {
+        "id": "text_4",
+        "name": "EEK!",
+        "emoji": "😱",
+        "assetPath": "assets/stickers/text/eek.png"
+      }
+    ]
+  },
+  {
+    "id": "misc",
+    "name": "More",
+    "icon": "🌙",
+    "stickers": [
+      {
+        "id": "misc_1",
+        "name": "Full Moon",
+        "emoji": "🌕",
+        "assetPath": "assets/stickers/misc/full_moon.png"
+      },
+      {
+        "id": "misc_2",
+        "name": "Crescent Moon",
+        "emoji": "🌙",
+        "assetPath": "assets/stickers/misc/crescent_moon.png"
+      },
+      {
+        "id": "misc_3",
+        "name": "Stars",
+        "emoji": "✨",
+        "assetPath": "assets/stickers/misc/stars.png"
+      },
+      {
+        "id": "misc_4",
+        "name": "Black Cat",
+        "emoji": "🐈‍⬛",
+        "assetPath": "assets/stickers/misc/black_cat.png"
+      },
+      {
+        "id": "misc_5",
+        "name": "Coffin",
+        "emoji": "⚰️",
+        "assetPath": "assets/stickers/misc/coffin.png"
+      },
+      {
+        "id": "misc_6",
+        "name": "Crystal Ball",
+        "emoji": "🔮",
+        "assetPath": "assets/stickers/misc/crystal_ball.png"
+      }
+    ]
+  }
+]
